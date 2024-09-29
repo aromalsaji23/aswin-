@@ -1,0 +1,601 @@
+Category,Car Name,Features,Price Per Day (INR),Number of Seats,Air Conditioning,Safety Rating,Fuel Type
+Vintage,Ford Model T,"Bluetooth, Blind Spot Monitor, Leather Seats",13876,7,Yes,3.7,Diesel
+SUV,Tata Safari,"Parking Sensors, Cruise Control, Electric Engine, All-Wheel Drive, Heated Seats",3215,6,Yes,4.9,Petrol
+Off-Road,Jeep Wrangler,"Cruise Control, Leather Seats, Air Conditioning",3781,5,Yes,3.9,Petrol
+Luxury,Audi A8,"Parking Sensors, Lane Departure Warning, All-Wheel Drive, Backup Camera, Blind Spot Monitor",6991,4,Yes,3.2,Hybrid
+Hatchback,Hyundai Santro,"Heated Seats, Leather Seats, Bluetooth, Lane Departure Warning, Cruise Control",1852,7,Yes,4.9,Electric
+Vintage,Ford Model T,"Backup Camera, Sunroof, Air Conditioning, Lane Departure Warning",8542,5,No,4.6,Electric
+SUV,Ford Endeavour,"Parking Sensors, Blind Spot Monitor, Automatic Transmission",4954,7,No,4.7,Diesel
+Luxury,Audi A8,"Manual Transmission, Sunroof, Electric Engine",9883,6,No,4.0,Electric
+Luxury,Mercedes-Benz S-Class,"Sunroof, Bluetooth, Cruise Control, Backup Camera",9910,5,Yes,5.0,Diesel
+Off-Road,Land Rover Defender,"Parking Sensors, Cruise Control, Lane Departure Warning",3329,7,No,3.8,Diesel
+Electric,Tesla Model 3,"Automatic Transmission, Blind Spot Monitor, Parking Sensors",2249,7,No,3.1,Electric
+SUV,Jeep Compass,"Blind Spot Monitor, Bluetooth, Leather Seats, Parking Sensors",3187,6,Yes,4.3,Hybrid
+Luxury,Jaguar XJ,"Parking Sensors, Air Conditioning, Backup Camera, Cruise Control, Automatic Transmission, Bluetooth",10503,4,No,4.7,Diesel
+Electric,Tesla Model 3,"GPS Navigation, Electric Engine, All-Wheel Drive",2956,6,No,4.4,Electric
+SUV,Ford Endeavour,"Automatic Transmission, GPS Navigation, Heated Seats, Manual Transmission, Electric Engine",3513,7,Yes,4.5,Petrol
+Off-Road,Jeep Wrangler,"Air Conditioning, Cruise Control, GPS Navigation, Parking Sensors, Lane Departure Warning, Bluetooth",4013,7,Yes,4.9,Hybrid
+Off-Road,Toyota Land Cruiser,"Automatic Transmission, Hybrid Engine, Backup Camera",4744,5,Yes,3.9,Petrol
+Electric,Tesla Model 3,"Cruise Control, Parking Sensors, Air Conditioning, Lane Departure Warning, GPS Navigation",2002,4,No,4.4,Electric
+Hatchback,Renault Kwid,"Electric Engine, Sunroof, Lane Departure Warning, Bluetooth",1288,6,Yes,3.5,Hybrid
+SUV,Toyota Fortuner,"Blind Spot Monitor, Electric Engine, Lane Departure Warning",4062,5,No,4.0,Hybrid
+Off-Road,Jeep Wrangler,"Hybrid Engine, Lane Departure Warning, Heated Seats, Bluetooth, Automatic Transmission",4274,5,No,3.7,Diesel
+Electric,Hyundai Kona Electric,"Lane Departure Warning, Parking Sensors, Backup Camera, Blind Spot Monitor, Electric Engine",2408,4,No,3.8,Electric
+SUV,Toyota Fortuner,"GPS Navigation, Cruise Control, Automatic Transmission, Leather Seats, All-Wheel Drive",5301,7,Yes,3.6,Petrol
+Vintage,Chevrolet Bel Air,"Backup Camera, All-Wheel Drive, Sunroof, Bluetooth, Cruise Control, Heated Seats",7475,4,Yes,3.1,Petrol
+Off-Road,Land Rover Defender,"Automatic Transmission, Backup Camera, Hybrid Engine, Leather Seats, Parking Sensors, Heated Seats",4585,7,No,4.3,Hybrid
+Vintage,Jaguar XK120,"Parking Sensors, Sunroof, Air Conditioning, Manual Transmission",12498,6,No,4.7,Diesel
+Electric,Tesla Model 3,"GPS Navigation, Hybrid Engine, Leather Seats",2226,5,No,3.5,Electric
+Vintage,Jaguar XK120,"Heated Seats, Parking Sensors, Sunroof, Hybrid Engine, Leather Seats",8103,6,Yes,3.9,Hybrid
+Hatchback,Maruti Suzuki Swift,"All-Wheel Drive, Backup Camera, Sunroof, GPS Navigation, Cruise Control",2032,6,Yes,3.5,Hybrid
+Vintage,Rolls Royce Silver Ghost,"Manual Transmission, Bluetooth, Hybrid Engine, Electric Engine, Parking Sensors, Heated Seats",8541,4,Yes,3.1,Diesel
+Off-Road,Suzuki Jimny,"Heated Seats, Electric Engine, Blind Spot Monitor, All-Wheel Drive, Automatic Transmission, Hybrid Engine",4212,6,Yes,4.5,Diesel
+SUV,Tata Safari,"All-Wheel Drive, Heated Seats, Automatic Transmission, Electric Engine",4321,7,Yes,4.2,Petrol
+Vintage,Chevrolet Bel Air,"GPS Navigation, Automatic Transmission, Air Conditioning, Electric Engine, Heated Seats, Sunroof",13075,6,No,4.0,Electric
+SUV,Jeep Compass,"Lane Departure Warning, Cruise Control, Manual Transmission",4817,5,Yes,3.2,Diesel
+SUV,Toyota Fortuner,"Bluetooth, Electric Engine, Air Conditioning",3538,5,No,3.5,Diesel
+Hatchback,Hyundai Santro,"Automatic Transmission, Bluetooth, Leather Seats, Air Conditioning",1772,5,Yes,3.9,Diesel
+Luxury,Mercedes-Benz S-Class,"Hybrid Engine, Leather Seats, Air Conditioning, Cruise Control, Parking Sensors",9955,6,Yes,4.2,Petrol
+Luxury,Jaguar XJ,"Manual Transmission, Lane Departure Warning, Air Conditioning, Bluetooth, Backup Camera, Leather Seats",5829,7,No,3.1,Diesel
+Electric,Hyundai Kona Electric,"Backup Camera, Bluetooth, Automatic Transmission, Manual Transmission",3882,5,No,3.5,Electric
+Electric,Tesla Model 3,"Automatic Transmission, Air Conditioning, Hybrid Engine, GPS Navigation, Blind Spot Monitor",2605,6,No,4.5,Electric
+SUV,Tata Safari,"Electric Engine, Blind Spot Monitor, Manual Transmission, Leather Seats, Backup Camera, Hybrid Engine",3232,6,Yes,3.3,Diesel
+SUV,Toyota Fortuner,"All-Wheel Drive, Heated Seats, Cruise Control",4391,6,No,4.9,Hybrid
+Luxury,BMW 7 Series,"Cruise Control, Parking Sensors, Blind Spot Monitor",8885,6,Yes,4.1,Electric
+SUV,Tata Safari,"Automatic Transmission, Parking Sensors, Air Conditioning, Leather Seats, Cruise Control, Heated Seats",4166,4,Yes,4.5,Electric
+Luxury,BMW 7 Series,"Air Conditioning, Automatic Transmission, Heated Seats, GPS Navigation",11507,5,Yes,3.2,Diesel
+Luxury,Mercedes-Benz S-Class,"Heated Seats, Manual Transmission, Backup Camera, GPS Navigation",7803,7,Yes,4.0,Petrol
+Electric,Tesla Model 3,"All-Wheel Drive, Lane Departure Warning, Cruise Control, GPS Navigation, Blind Spot Monitor, Sunroof",3159,4,Yes,4.7,Electric
+Electric,Hyundai Kona Electric,"Electric Engine, Backup Camera, All-Wheel Drive, Hybrid Engine, Bluetooth",2492,4,No,3.4,Electric
+SUV,Mahindra XUV700,"Leather Seats, All-Wheel Drive, Parking Sensors",4877,5,Yes,4.6,Electric
+Luxury,Mercedes-Benz S-Class,"Electric Engine, Manual Transmission, Leather Seats, Blind Spot Monitor, Lane Departure Warning, Heated Seats",11245,7,Yes,4.5,Diesel
+Vintage,Plymouth Road Runner,"GPS Navigation, Backup Camera, Blind Spot Monitor, Hybrid Engine, Electric Engine",11372,7,No,3.3,Petrol
+Vintage,Chevrolet Bel Air,"Manual Transmission, Automatic Transmission, Hybrid Engine",13372,4,Yes,4.9,Hybrid
+Luxury,Lexus LS,"Bluetooth, Backup Camera, GPS Navigation",11963,5,Yes,3.7,Diesel
+Hatchback,Hyundai Grand i10 Nios,"Backup Camera, Manual Transmission, Electric Engine, Parking Sensors",1028,6,Yes,4.4,Electric
+SUV,Mahindra XUV700,"Lane Departure Warning, Bluetooth, All-Wheel Drive, Backup Camera, Heated Seats",4954,6,No,3.8,Diesel
+Luxury,BMW 7 Series,"GPS Navigation, Automatic Transmission, Air Conditioning, Hybrid Engine, All-Wheel Drive, Bluetooth",10058,6,No,3.1,Diesel
+Electric,Tata Nexon EV,"Electric Engine, Blind Spot Monitor, Bluetooth, Parking Sensors, Lane Departure Warning, GPS Navigation",3316,6,No,4.3,Electric
+Electric,MG ZS EV,"Parking Sensors, Hybrid Engine, Air Conditioning",2151,5,Yes,3.2,Electric
+SUV,Tata Safari,"Sunroof, Manual Transmission, Electric Engine, Heated Seats, Blind Spot Monitor",5933,6,Yes,4.4,Hybrid
+Off-Road,Suzuki Jimny,"Lane Departure Warning, Blind Spot Monitor, Sunroof, GPS Navigation, Bluetooth, Leather Seats",5424,4,Yes,3.4,Hybrid
+Vintage,Chevrolet Bel Air,"Manual Transmission, Leather Seats, Bluetooth, GPS Navigation, Sunroof",6648,4,Yes,3.6,Electric
+Hatchback,Honda WR-V,"All-Wheel Drive, Electric Engine, Air Conditioning, Sunroof, Blind Spot Monitor",2107,4,No,4.2,Electric
+Off-Road,Land Rover Defender,"Heated Seats, Manual Transmission, Blind Spot Monitor, Leather Seats",5037,6,Yes,3.3,Petrol
+Luxury,BMW 7 Series,"Heated Seats, GPS Navigation, Air Conditioning, Bluetooth",5829,4,No,3.9,Electric
+Luxury,Jaguar XJ,"Cruise Control, Backup Camera, Automatic Transmission",8723,6,No,5.0,Petrol
+Off-Road,Suzuki Jimny,"Parking Sensors, Backup Camera, All-Wheel Drive, Cruise Control, Electric Engine, Blind Spot Monitor",3970,7,No,4.6,Hybrid
+Luxury,Jaguar XJ,"Manual Transmission, Backup Camera, Blind Spot Monitor, GPS Navigation",7958,4,No,4.6,Petrol
+Luxury,BMW 7 Series,"Lane Departure Warning, Parking Sensors, Manual Transmission, Cruise Control, Leather Seats, All-Wheel Drive",6897,4,No,4.4,Electric
+Vintage,Rolls Royce Silver Ghost,"Lane Departure Warning, Blind Spot Monitor, Parking Sensors, Sunroof, Automatic Transmission, Leather Seats",9674,4,No,3.4,Hybrid
+Hatchback,Volkswagen Polo,"Hybrid Engine, GPS Navigation, Automatic Transmission, Electric Engine",2979,6,No,3.3,Electric
+Vintage,Plymouth Road Runner,"Heated Seats, Manual Transmission, Blind Spot Monitor",11770,4,No,3.3,Electric
+Hatchback,Ford Figo,"Lane Departure Warning, Cruise Control, Manual Transmission, Hybrid Engine",2210,6,Yes,3.8,Electric
+Off-Road,Toyota Land Cruiser,"Electric Engine, Parking Sensors, Air Conditioning, Heated Seats, Backup Camera, Sunroof",3475,5,No,3.7,Electric
+Off-Road,Land Rover Defender,"Lane Departure Warning, Leather Seats, Hybrid Engine, Automatic Transmission",3488,5,No,4.1,Petrol
+Hatchback,Tata Altroz,"Air Conditioning, Hybrid Engine, Backup Camera, Blind Spot Monitor",1465,4,Yes,4.9,Hybrid
+Luxury,BMW 7 Series,"Lane Departure Warning, Blind Spot Monitor, Parking Sensors",6163,5,Yes,4.3,Electric
+Off-Road,Jeep Wrangler,"All-Wheel Drive, Heated Seats, Bluetooth, Parking Sensors, Automatic Transmission",4908,5,Yes,3.3,Hybrid
+Hatchback,Hyundai Santro,"Bluetooth, GPS Navigation, Leather Seats, Lane Departure Warning, Backup Camera, Electric Engine",2666,5,No,3.7,Petrol
+Electric,Hyundai Kona Electric,"Leather Seats, Lane Departure Warning, Bluetooth, Sunroof, Parking Sensors",2096,7,Yes,4.1,Electric
+Off-Road,Jeep Wrangler,"Leather Seats, All-Wheel Drive, Manual Transmission, Hybrid Engine, Cruise Control",3301,6,Yes,3.5,Diesel
+Off-Road,Ford Bronco,"Air Conditioning, Heated Seats, Backup Camera, Bluetooth, Automatic Transmission",3452,4,No,3.8,Electric
+Hatchback,Toyota Glanza,"Blind Spot Monitor, Automatic Transmission, Manual Transmission",1920,6,Yes,4.6,Petrol
+Off-Road,Jeep Wrangler,"Backup Camera, Blind Spot Monitor, Electric Engine, Bluetooth, Manual Transmission, Lane Departure Warning",5339,7,No,4.5,Diesel
+SUV,Ford Endeavour,"Manual Transmission, Blind Spot Monitor, Leather Seats, Hybrid Engine, GPS Navigation, Parking Sensors",4170,7,No,3.8,Electric
+SUV,Toyota Fortuner,"Manual Transmission, Automatic Transmission, Backup Camera, GPS Navigation, Blind Spot Monitor, All-Wheel Drive",4577,5,No,3.2,Diesel
+Luxury,Lexus LS,"Sunroof, Heated Seats, Air Conditioning, Cruise Control, Lane Departure Warning, Blind Spot Monitor",5408,6,No,4.9,Hybrid
+Electric,Hyundai Kona Electric,"Heated Seats, Cruise Control, Hybrid Engine, Electric Engine",2135,7,Yes,3.5,Electric
+SUV,Mahindra XUV700,"Electric Engine, Automatic Transmission, Leather Seats",3728,7,No,3.9,Diesel
+Off-Road,Jeep Wrangler,"Electric Engine, Bluetooth, Sunroof, Leather Seats, Hybrid Engine",5167,5,No,4.8,Hybrid
+Luxury,Lexus LS,"Blind Spot Monitor, Automatic Transmission, Leather Seats",5848,7,No,4.7,Hybrid
+SUV,Tata Safari,"Manual Transmission, Blind Spot Monitor, Automatic Transmission, Hybrid Engine, Leather Seats, Air Conditioning",3547,6,No,3.9,Electric
+Off-Road,Suzuki Jimny,"Blind Spot Monitor, Lane Departure Warning, Heated Seats, Air Conditioning",4356,7,Yes,3.9,Electric
+Electric,Hyundai Kona Electric,"Automatic Transmission, Air Conditioning, Parking Sensors",2054,4,No,3.0,Electric
+Vintage,Plymouth Road Runner,"Air Conditioning, Parking Sensors, Cruise Control, Backup Camera, Automatic Transmission",6607,5,No,4.3,Electric
+Electric,Tata Nexon EV,"Parking Sensors, Blind Spot Monitor, Lane Departure Warning, Leather Seats, Heated Seats",2950,6,Yes,3.7,Electric
+Luxury,Audi A8,"Air Conditioning, Leather Seats, Heated Seats",9653,7,Yes,3.8,Hybrid
+SUV,Ford Endeavour,"Electric Engine, All-Wheel Drive, Parking Sensors, Hybrid Engine, GPS Navigation",4508,7,Yes,3.1,Electric
+SUV,Tata Safari,"GPS Navigation, Leather Seats, Manual Transmission",5056,4,No,3.5,Hybrid
+Hatchback,Volkswagen Polo,"Automatic Transmission, All-Wheel Drive, Manual Transmission, Bluetooth, Backup Camera",2153,6,Yes,3.5,Diesel
+Hatchback,Nissan Magnite,"Sunroof, Cruise Control, All-Wheel Drive, Bluetooth, Blind Spot Monitor, Automatic Transmission",2522,5,No,3.1,Electric
+Luxury,Audi A8,"All-Wheel Drive, Lane Departure Warning, Cruise Control",5127,5,No,3.8,Petrol
+Electric,Hyundai Kona Electric,"Automatic Transmission, Manual Transmission, Heated Seats",3489,7,Yes,3.2,Electric
+SUV,Toyota Fortuner,"Backup Camera, Heated Seats, Hybrid Engine",3953,5,No,4.9,Electric
+SUV,Toyota Fortuner,"GPS Navigation, Blind Spot Monitor, Parking Sensors, Lane Departure Warning",4744,7,No,3.9,Electric
+Electric,Tata Nexon EV,"Blind Spot Monitor, Automatic Transmission, Heated Seats, Hybrid Engine, Cruise Control",3876,5,No,3.7,Electric
+Luxury,Jaguar XJ,"Parking Sensors, All-Wheel Drive, Air Conditioning",8641,7,Yes,4.7,Hybrid
+Electric,Tata Nexon EV,"Blind Spot Monitor, Manual Transmission, Heated Seats",2694,5,No,4.2,Electric
+Luxury,Audi A8,"Air Conditioning, Hybrid Engine, Manual Transmission",5478,7,No,3.5,Electric
+Hatchback,Toyota Glanza,"Parking Sensors, Cruise Control, GPS Navigation, Electric Engine, Manual Transmission",1480,5,No,4.2,Petrol
+Luxury,Lexus LS,"Sunroof, Heated Seats, Backup Camera, Automatic Transmission",11614,7,No,3.7,Petrol
+Electric,Mahindra eVerito,"Lane Departure Warning, Cruise Control, Backup Camera",2072,5,Yes,3.5,Electric
+Off-Road,Ford Bronco,"Hybrid Engine, GPS Navigation, Cruise Control, All-Wheel Drive, Parking Sensors, Electric Engine",3587,7,Yes,3.0,Electric
+SUV,Tata Safari,"Parking Sensors, Manual Transmission, Heated Seats",5797,7,Yes,3.3,Electric
+Luxury,Jaguar XJ,"Hybrid Engine, GPS Navigation, Leather Seats, Backup Camera, Automatic Transmission",8974,4,No,4.7,Petrol
+Luxury,BMW 7 Series,"Bluetooth, Parking Sensors, Backup Camera, Lane Departure Warning",8930,4,Yes,4.8,Electric
+Hatchback,Hyundai Santro,"Cruise Control, Electric Engine, Sunroof, Lane Departure Warning",1524,7,No,3.1,Electric
+Vintage,Jaguar XK120,"Heated Seats, Cruise Control, Backup Camera, Manual Transmission, Automatic Transmission, Bluetooth",8650,4,No,4.4,Petrol
+Off-Road,Suzuki Jimny,"Air Conditioning, Heated Seats, Manual Transmission, All-Wheel Drive",4267,5,No,3.4,Diesel
+Vintage,Rolls Royce Silver Ghost,"Cruise Control, Backup Camera, Bluetooth, Automatic Transmission, Heated Seats, Sunroof",11701,5,Yes,4.1,Hybrid
+Hatchback,Toyota Glanza,"Cruise Control, Manual Transmission, Sunroof, Leather Seats, Backup Camera, Heated Seats",2043,6,Yes,4.2,Electric
+Off-Road,Jeep Wrangler,"Lane Departure Warning, Air Conditioning, Blind Spot Monitor, All-Wheel Drive",5224,5,No,3.4,Electric
+Electric,Tata Nexon EV,"All-Wheel Drive, Backup Camera, Bluetooth",2879,6,Yes,3.8,Electric
+Electric,MG ZS EV,"Heated Seats, Sunroof, Backup Camera, Manual Transmission",3145,7,No,3.6,Electric
+Electric,Mahindra eVerito,"Lane Departure Warning, Hybrid Engine, Manual Transmission",3182,6,Yes,3.9,Electric
+Luxury,Audi A8,"All-Wheel Drive, Automatic Transmission, Bluetooth, Electric Engine, Hybrid Engine",5534,4,No,4.5,Diesel
+Electric,Hyundai Kona Electric,"Hybrid Engine, Heated Seats, Blind Spot Monitor, Parking Sensors, Automatic Transmission, Lane Departure Warning",2077,7,Yes,4.4,Electric
+Electric,Tata Nexon EV,"Parking Sensors, Automatic Transmission, Bluetooth, Air Conditioning, Electric Engine",3847,4,Yes,4.7,Electric
+Off-Road,Jeep Wrangler,"All-Wheel Drive, Sunroof, Manual Transmission, Automatic Transmission, Hybrid Engine",5989,5,Yes,4.1,Electric
+Luxury,BMW 7 Series,"Hybrid Engine, Blind Spot Monitor, All-Wheel Drive",6129,7,Yes,3.7,Diesel
+Luxury,Mercedes-Benz S-Class,"GPS Navigation, Manual Transmission, Sunroof, Automatic Transmission, Bluetooth",10855,4,No,3.7,Diesel
+SUV,Mahindra XUV700,"Bluetooth, Backup Camera, GPS Navigation, Heated Seats, Sunroof",4392,6,Yes,4.6,Electric
+Luxury,Lexus LS,"Electric Engine, Heated Seats, Cruise Control, Automatic Transmission, All-Wheel Drive",9798,4,No,4.0,Diesel
+Electric,Tesla Model 3,"Air Conditioning, Manual Transmission, Parking Sensors",2716,6,Yes,3.5,Electric
+Off-Road,Ford Bronco,"Backup Camera, All-Wheel Drive, Bluetooth",3270,6,Yes,4.0,Electric
+Vintage,Chevrolet Bel Air,"Blind Spot Monitor, Electric Engine, Heated Seats",7470,7,Yes,3.6,Electric
+Hatchback,Volkswagen Polo,"Electric Engine, Air Conditioning, Automatic Transmission, Heated Seats, Backup Camera, Lane Departure Warning",1226,4,Yes,4.4,Petrol
+Off-Road,Suzuki Jimny,"Automatic Transmission, Backup Camera, Parking Sensors, Electric Engine, GPS Navigation, All-Wheel Drive",3372,4,No,3.0,Diesel
+Luxury,Audi A8,"GPS Navigation, Leather Seats, Parking Sensors",9887,7,Yes,4.0,Petrol
+Hatchback,Nissan Magnite,"All-Wheel Drive, GPS Navigation, Backup Camera, Automatic Transmission, Hybrid Engine",1593,4,No,4.9,Diesel
+Vintage,Chevrolet Bel Air,"Blind Spot Monitor, All-Wheel Drive, Parking Sensors, Sunroof, Backup Camera, Heated Seats",7362,5,No,4.1,Electric
+SUV,Mahindra XUV700,"Air Conditioning, GPS Navigation, Bluetooth",4032,7,Yes,4.5,Electric
+Off-Road,Toyota Land Cruiser,"Manual Transmission, Backup Camera, Sunroof, Hybrid Engine, Lane Departure Warning, Bluetooth",5610,4,No,3.3,Electric
+SUV,Tata Safari,"Hybrid Engine, Bluetooth, Parking Sensors, Heated Seats, Lane Departure Warning",3975,7,No,5.0,Petrol
+Hatchback,Hyundai Grand i10 Nios,"Backup Camera, All-Wheel Drive, Parking Sensors, GPS Navigation",1383,5,No,3.2,Electric
+SUV,Tata Safari,"GPS Navigation, All-Wheel Drive, Lane Departure Warning, Bluetooth, Automatic Transmission",3196,4,No,5.0,Electric
+SUV,Jeep Compass,"Electric Engine, Air Conditioning, Automatic Transmission",5443,4,No,4.0,Hybrid
+Off-Road,Toyota Land Cruiser,"Electric Engine, All-Wheel Drive, Heated Seats, Hybrid Engine",5258,4,Yes,3.7,Electric
+Off-Road,Jeep Wrangler,"Parking Sensors, Air Conditioning, Backup Camera, Electric Engine",3387,6,No,4.2,Petrol
+Luxury,Lexus LS,"Sunroof, Parking Sensors, All-Wheel Drive, Automatic Transmission, Heated Seats",5380,4,No,3.4,Hybrid
+Electric,MG ZS EV,"GPS Navigation, Bluetooth, All-Wheel Drive",3102,7,Yes,3.5,Electric
+Off-Road,Toyota Land Cruiser,"GPS Navigation, Hybrid Engine, Electric Engine, Air Conditioning, Parking Sensors",5203,4,No,3.8,Diesel
+Vintage,Ford Model T,"GPS Navigation, All-Wheel Drive, Cruise Control",5552,7,No,4.5,Hybrid
+SUV,Mahindra XUV700,"Blind Spot Monitor, Electric Engine, Hybrid Engine, Bluetooth, GPS Navigation, Leather Seats",3132,5,Yes,5.0,Electric
+Off-Road,Ford Bronco,"Lane Departure Warning, Hybrid Engine, Cruise Control, Sunroof, Automatic Transmission",5705,5,Yes,4.8,Petrol
+Hatchback,Hyundai i20,"Leather Seats, Electric Engine, Manual Transmission, Lane Departure Warning",2152,6,Yes,3.2,Petrol
+Luxury,Jaguar XJ,"Automatic Transmission, All-Wheel Drive, GPS Navigation, Parking Sensors",8489,4,No,4.2,Hybrid
+Hatchback,Maruti Suzuki Baleno,"Automatic Transmission, Heated Seats, Hybrid Engine, Manual Transmission, Backup Camera, Air Conditioning",2046,6,Yes,3.1,Electric
+Luxury,Mercedes-Benz S-Class,"All-Wheel Drive, Cruise Control, Bluetooth, Electric Engine, Leather Seats, GPS Navigation",7262,6,Yes,4.4,Diesel
+Luxury,BMW 7 Series,"All-Wheel Drive, Electric Engine, Automatic Transmission, Manual Transmission, Heated Seats",10092,6,Yes,3.9,Electric
+Electric,Hyundai Kona Electric,"Air Conditioning, Automatic Transmission, Electric Engine, Heated Seats, GPS Navigation",2555,5,No,3.5,Electric
+Off-Road,Toyota Land Cruiser,"GPS Navigation, Parking Sensors, All-Wheel Drive, Leather Seats, Lane Departure Warning, Heated Seats",3902,7,Yes,3.5,Electric
+Luxury,Lexus LS,"Blind Spot Monitor, Bluetooth, Sunroof, Automatic Transmission, Electric Engine, GPS Navigation",11014,6,No,3.5,Diesel
+Off-Road,Suzuki Jimny,"Manual Transmission, Parking Sensors, Hybrid Engine, Heated Seats",5240,7,No,4.2,Hybrid
+Luxury,Jaguar XJ,"Hybrid Engine, All-Wheel Drive, GPS Navigation, Manual Transmission, Heated Seats",7340,4,No,5.0,Petrol
+Luxury,Jaguar XJ,"Heated Seats, Lane Departure Warning, Air Conditioning, Hybrid Engine",7052,5,Yes,4.0,Hybrid
+Vintage,Ford Model T,"Automatic Transmission, Manual Transmission, Backup Camera, Parking Sensors, Lane Departure Warning",11337,6,No,3.6,Hybrid
+SUV,Ford Endeavour,"Heated Seats, Leather Seats, Cruise Control, Backup Camera",3707,7,No,4.6,Diesel
+SUV,Mahindra XUV700,"Hybrid Engine, All-Wheel Drive, Blind Spot Monitor",3604,4,Yes,3.9,Diesel
+Off-Road,Ford Bronco,"Hybrid Engine, Parking Sensors, Automatic Transmission, Air Conditioning, Blind Spot Monitor, Manual Transmission",4109,4,Yes,3.8,Electric
+Luxury,BMW 7 Series,"Leather Seats, Parking Sensors, Manual Transmission, Automatic Transmission",6674,4,Yes,4.2,Diesel
+Off-Road,Ford Bronco,"Backup Camera, Sunroof, Automatic Transmission, All-Wheel Drive, Parking Sensors",5376,6,No,4.0,Hybrid
+Off-Road,Suzuki Jimny,"Sunroof, Cruise Control, Heated Seats, Bluetooth, Air Conditioning, Electric Engine",3917,4,No,4.3,Diesel
+Off-Road,Toyota Land Cruiser,"GPS Navigation, Cruise Control, Manual Transmission, Automatic Transmission, Sunroof, Air Conditioning",4460,4,Yes,3.7,Hybrid
+Electric,Mahindra eVerito,"Leather Seats, Sunroof, All-Wheel Drive",2177,6,Yes,4.6,Electric
+Electric,Mahindra eVerito,"Sunroof, Manual Transmission, All-Wheel Drive, Parking Sensors, Electric Engine, Bluetooth",3956,4,Yes,4.2,Electric
+Luxury,Jaguar XJ,"Heated Seats, Cruise Control, Hybrid Engine, All-Wheel Drive, Manual Transmission, Backup Camera",9324,6,Yes,4.4,Petrol
+Electric,Mahindra eVerito,"Backup Camera, Parking Sensors, Electric Engine",3646,4,Yes,3.3,Electric
+SUV,Ford Endeavour,"Automatic Transmission, Heated Seats, Electric Engine",5987,6,No,3.4,Petrol
+Hatchback,Maruti Suzuki Celerio,"Automatic Transmission, All-Wheel Drive, Bluetooth, Heated Seats, Manual Transmission, Air Conditioning",2252,5,No,4.7,Hybrid
+Vintage,Plymouth Road Runner,"Hybrid Engine, Manual Transmission, Leather Seats, Lane Departure Warning",12984,6,No,4.1,Diesel
+SUV,Jeep Compass,"Lane Departure Warning, Leather Seats, Electric Engine",5644,5,Yes,4.9,Diesel
+Luxury,Audi A8,"Leather Seats, Lane Departure Warning, Hybrid Engine",9551,7,Yes,3.2,Diesel
+SUV,Ford Endeavour,"Cruise Control, Sunroof, Heated Seats",4151,5,Yes,4.8,Diesel
+Vintage,Jaguar XK120,"Hybrid Engine, Manual Transmission, Lane Departure Warning, Cruise Control",6582,4,No,3.9,Electric
+Luxury,Mercedes-Benz S-Class,"Leather Seats, Bluetooth, Sunroof",8773,7,Yes,4.1,Hybrid
+Hatchback,Hyundai Grand i10 Nios,"Electric Engine, Sunroof, Parking Sensors, Hybrid Engine, Leather Seats, GPS Navigation",2164,5,Yes,3.2,Petrol
+Vintage,Plymouth Road Runner,"Automatic Transmission, Electric Engine, GPS Navigation, Blind Spot Monitor, Bluetooth",10903,5,No,3.9,Hybrid
+Electric,Hyundai Kona Electric,"Parking Sensors, Backup Camera, Cruise Control, Blind Spot Monitor, Bluetooth",2298,5,No,4.3,Electric
+Off-Road,Toyota Land Cruiser,"Cruise Control, Leather Seats, Lane Departure Warning",5872,4,Yes,3.2,Hybrid
+Vintage,Ford Model T,"Heated Seats, All-Wheel Drive, Air Conditioning, Lane Departure Warning, Parking Sensors, Hybrid Engine",14302,6,No,3.5,Electric
+Electric,Tesla Model 3,"Automatic Transmission, Manual Transmission, Sunroof, Hybrid Engine, GPS Navigation",3211,6,No,3.1,Electric
+SUV,Toyota Fortuner,"Blind Spot Monitor, Bluetooth, Cruise Control, GPS Navigation",3779,6,Yes,4.5,Petrol
+Electric,Mahindra eVerito,"Leather Seats, Cruise Control, Electric Engine, GPS Navigation, Automatic Transmission",2900,5,No,3.2,Electric
+Vintage,Jaguar XK120,"Cruise Control, Lane Departure Warning, Parking Sensors, Bluetooth, Blind Spot Monitor, Sunroof",5451,7,Yes,3.2,Electric
+Electric,Tata Nexon EV,"Electric Engine, Leather Seats, GPS Navigation",3684,4,No,4.9,Electric
+Vintage,Rolls Royce Silver Ghost,"Heated Seats, Leather Seats, Electric Engine, Manual Transmission, Automatic Transmission",7562,4,No,4.1,Diesel
+Vintage,Plymouth Road Runner,"Hybrid Engine, All-Wheel Drive, GPS Navigation, Bluetooth, Blind Spot Monitor",13224,5,Yes,4.7,Petrol
+Off-Road,Toyota Land Cruiser,"GPS Navigation, Bluetooth, Backup Camera, Automatic Transmission",3155,4,No,3.1,Hybrid
+Electric,MG ZS EV,"Heated Seats, Blind Spot Monitor, Lane Departure Warning, GPS Navigation",3703,5,Yes,4.8,Electric
+Electric,MG ZS EV,"Leather Seats, Cruise Control, Bluetooth, Sunroof, GPS Navigation",2008,4,Yes,4.3,Electric
+Luxury,BMW 7 Series,"Blind Spot Monitor, Air Conditioning, Electric Engine, Hybrid Engine, GPS Navigation",11254,7,No,4.9,Diesel
+Hatchback,Volkswagen Polo,"Manual Transmission, Leather Seats, Heated Seats, GPS Navigation",2547,4,Yes,4.3,Electric
+Hatchback,Hyundai Santro,"Blind Spot Monitor, All-Wheel Drive, Leather Seats, Lane Departure Warning",1593,5,No,4.1,Electric
+Vintage,Ford Model T,"Lane Departure Warning, GPS Navigation, Automatic Transmission, Air Conditioning",13278,4,No,4.0,Hybrid
+Vintage,Chevrolet Bel Air,"Heated Seats, Manual Transmission, GPS Navigation",7249,4,Yes,3.7,Petrol
+Electric,Hyundai Kona Electric,"Cruise Control, Air Conditioning, Electric Engine, Manual Transmission, Parking Sensors",3923,6,No,4.4,Electric
+SUV,Jeep Compass,"Automatic Transmission, Lane Departure Warning, All-Wheel Drive",5397,5,Yes,3.3,Petrol
+Vintage,Rolls Royce Silver Ghost,"Manual Transmission, Automatic Transmission, Air Conditioning",8447,7,Yes,4.2,Electric
+Vintage,Plymouth Road Runner,"Manual Transmission, Hybrid Engine, Air Conditioning, All-Wheel Drive, Automatic Transmission, Lane Departure Warning",11025,5,Yes,3.3,Hybrid
+Off-Road,Suzuki Jimny,"Electric Engine, Sunroof, Hybrid Engine, Cruise Control",4504,4,No,4.0,Hybrid
+Hatchback,Hyundai Santro,"Parking Sensors, GPS Navigation, Air Conditioning",2703,6,Yes,4.3,Electric
+Luxury,Lexus LS,"Parking Sensors, Automatic Transmission, GPS Navigation, Heated Seats, Hybrid Engine, Blind Spot Monitor",7116,7,No,3.9,Diesel
+Vintage,Plymouth Road Runner,"Bluetooth, Cruise Control, Air Conditioning, Sunroof, Backup Camera",14457,6,Yes,4.0,Diesel
+Hatchback,Maruti Suzuki Swift,"All-Wheel Drive, GPS Navigation, Lane Departure Warning",2662,4,Yes,4.3,Diesel
+Vintage,Rolls Royce Silver Ghost,"Parking Sensors, Hybrid Engine, Manual Transmission, Leather Seats, GPS Navigation, Blind Spot Monitor",6882,5,No,3.9,Diesel
+SUV,Mahindra XUV700,"Air Conditioning, All-Wheel Drive, Electric Engine, Bluetooth, Parking Sensors, Hybrid Engine",5085,6,Yes,4.1,Electric
+Electric,Hyundai Kona Electric,"All-Wheel Drive, Air Conditioning, Sunroof, Lane Departure Warning",3579,4,Yes,3.7,Electric
+Hatchback,Hyundai Santro,"GPS Navigation, Bluetooth, Cruise Control, Lane Departure Warning, Hybrid Engine",1426,5,No,4.4,Petrol
+Luxury,Mercedes-Benz S-Class,"Blind Spot Monitor, Heated Seats, Hybrid Engine, All-Wheel Drive, Electric Engine",11554,7,Yes,4.0,Petrol
+SUV,Mahindra XUV700,"Leather Seats, GPS Navigation, Automatic Transmission, Electric Engine, Manual Transmission, Parking Sensors",3039,7,No,3.6,Hybrid
+Electric,Mahindra eVerito,"Cruise Control, Electric Engine, Hybrid Engine, Lane Departure Warning",3689,7,Yes,4.7,Electric
+Off-Road,Jeep Wrangler,"Bluetooth, Air Conditioning, Manual Transmission, Parking Sensors",5108,6,Yes,4.8,Diesel
+Luxury,Audi A8,"Air Conditioning, Automatic Transmission, Heated Seats, Bluetooth, Blind Spot Monitor, Electric Engine",7793,5,Yes,3.3,Diesel
+Off-Road,Ford Bronco,"Sunroof, Electric Engine, Backup Camera, Bluetooth, Hybrid Engine, Heated Seats",3367,7,Yes,4.4,Diesel
+Hatchback,Hyundai i20,"Lane Departure Warning, GPS Navigation, Cruise Control, Electric Engine, Sunroof",2682,4,Yes,3.5,Hybrid
+Vintage,Jaguar XK120,"Blind Spot Monitor, GPS Navigation, Manual Transmission, Lane Departure Warning",8020,7,No,4.9,Petrol
+Luxury,Mercedes-Benz S-Class,"GPS Navigation, Lane Departure Warning, Sunroof",9689,6,Yes,4.8,Petrol
+Hatchback,Tata Altroz,"Sunroof, Cruise Control, Parking Sensors, Heated Seats",1416,7,No,3.0,Diesel
+Hatchback,Toyota Glanza,"Heated Seats, Electric Engine, Parking Sensors, Cruise Control, Air Conditioning",2388,5,No,4.3,Electric
+Hatchback,Honda WR-V,"Parking Sensors, Sunroof, Hybrid Engine, All-Wheel Drive, Automatic Transmission, Lane Departure Warning",1191,5,Yes,3.1,Hybrid
+Electric,Hyundai Kona Electric,"Manual Transmission, Sunroof, Automatic Transmission, Cruise Control, GPS Navigation, Blind Spot Monitor",2797,4,No,4.0,Electric
+Electric,Hyundai Kona Electric,"Air Conditioning, Sunroof, Manual Transmission, All-Wheel Drive",2553,5,No,5.0,Electric
+Electric,Mahindra eVerito,"Air Conditioning, Cruise Control, Automatic Transmission",2355,4,Yes,3.6,Electric
+Luxury,Lexus LS,"All-Wheel Drive, Hybrid Engine, Lane Departure Warning, Manual Transmission, GPS Navigation",9687,5,Yes,5.0,Diesel
+SUV,Mahindra XUV700,"Automatic Transmission, GPS Navigation, Parking Sensors",5197,5,Yes,3.3,Hybrid
+Off-Road,Land Rover Defender,"Manual Transmission, Hybrid Engine, Leather Seats",4383,7,No,3.6,Hybrid
+SUV,Mahindra XUV700,"Lane Departure Warning, Bluetooth, Hybrid Engine, Backup Camera",3179,6,Yes,4.7,Diesel
+Hatchback,Maruti Suzuki Celerio,"Air Conditioning, Backup Camera, Parking Sensors",2509,6,No,3.8,Electric
+Vintage,Chevrolet Bel Air,"Electric Engine, Leather Seats, Manual Transmission, Bluetooth",11518,4,Yes,4.2,Hybrid
+Hatchback,Volkswagen Polo,"Cruise Control, Heated Seats, Air Conditioning, Automatic Transmission",1787,6,No,3.3,Diesel
+Luxury,Mercedes-Benz S-Class,"Cruise Control, Lane Departure Warning, Backup Camera",10632,4,No,3.7,Hybrid
+Hatchback,Volkswagen Polo,"Blind Spot Monitor, Heated Seats, Cruise Control, Leather Seats, Bluetooth, GPS Navigation",1807,7,Yes,3.3,Petrol
+Hatchback,Maruti Suzuki Baleno,"Sunroof, Lane Departure Warning, Electric Engine, Parking Sensors",1876,5,No,3.6,Hybrid
+Vintage,Plymouth Road Runner,"Electric Engine, Bluetooth, Backup Camera, Cruise Control, All-Wheel Drive, Manual Transmission",8192,5,Yes,4.0,Electric
+Off-Road,Jeep Wrangler,"Parking Sensors, Sunroof, Leather Seats, Lane Departure Warning, Automatic Transmission, Blind Spot Monitor",5684,5,Yes,3.0,Electric
+Hatchback,Nissan Magnite,"Sunroof, Heated Seats, Cruise Control, All-Wheel Drive, Leather Seats, Hybrid Engine",1891,4,No,3.3,Hybrid
+Electric,MG ZS EV,"Leather Seats, Bluetooth, Sunroof",3748,4,No,4.0,Electric
+Hatchback,Tata Altroz,"Cruise Control, Sunroof, Heated Seats, Electric Engine, Manual Transmission",2912,4,Yes,3.3,Electric
+Electric,Mahindra eVerito,"Electric Engine, Leather Seats, Heated Seats, Bluetooth, Parking Sensors, Sunroof",2345,7,Yes,4.2,Electric
+Hatchback,Renault Kwid,"Air Conditioning, Heated Seats, GPS Navigation",1848,6,Yes,4.0,Electric
+Luxury,Audi A8,"Air Conditioning, Bluetooth, Leather Seats",7074,7,No,4.8,Petrol
+Off-Road,Jeep Wrangler,"Manual Transmission, Automatic Transmission, Bluetooth",3769,5,No,3.5,Diesel
+Off-Road,Suzuki Jimny,"GPS Navigation, Air Conditioning, Sunroof, Manual Transmission",4696,4,Yes,3.9,Hybrid
+Hatchback,Tata Tiago,"Automatic Transmission, Electric Engine, Lane Departure Warning",1998,6,Yes,4.7,Diesel
+Vintage,Rolls Royce Silver Ghost,"Lane Departure Warning, Hybrid Engine, All-Wheel Drive, Heated Seats",11529,5,No,4.2,Hybrid
+Off-Road,Toyota Land Cruiser,"Heated Seats, Electric Engine, Bluetooth, Lane Departure Warning",4717,7,Yes,4.9,Hybrid
+Vintage,Jaguar XK120,"Cruise Control, Electric Engine, Sunroof",11185,7,Yes,3.8,Diesel
+Hatchback,Tata Altroz,"Leather Seats, Heated Seats, Lane Departure Warning",2321,6,Yes,4.3,Hybrid
+Luxury,Lexus LS,"Backup Camera, Air Conditioning, Sunroof, Manual Transmission, Hybrid Engine",7034,5,Yes,3.5,Petrol
+Luxury,BMW 7 Series,"Parking Sensors, All-Wheel Drive, GPS Navigation",6722,6,No,4.4,Electric
+SUV,Mahindra XUV700,"GPS Navigation, Heated Seats, Hybrid Engine, Leather Seats, Cruise Control, Electric Engine",5206,4,Yes,3.7,Diesel
+Luxury,Lexus LS,"Electric Engine, All-Wheel Drive, Heated Seats, Manual Transmission",10091,4,Yes,4.2,Hybrid
+Vintage,Ford Model T,"Manual Transmission, Air Conditioning, Automatic Transmission, Parking Sensors, Bluetooth, GPS Navigation",13900,7,Yes,3.2,Petrol
+Electric,MG ZS EV,"Blind Spot Monitor, All-Wheel Drive, Parking Sensors",3624,4,Yes,4.4,Electric
+Hatchback,Honda Jazz,"Manual Transmission, Blind Spot Monitor, GPS Navigation, Heated Seats, Lane Departure Warning",2444,4,Yes,3.1,Electric
+SUV,Ford Endeavour,"Parking Sensors, Sunroof, Blind Spot Monitor, Bluetooth",5822,7,No,4.3,Electric
+Vintage,Plymouth Road Runner,"Cruise Control, Leather Seats, Parking Sensors, Sunroof",8415,6,No,4.3,Diesel
+SUV,Mahindra XUV700,"Sunroof, Lane Departure Warning, Cruise Control, GPS Navigation, Backup Camera",4440,6,No,3.9,Electric
+Vintage,Ford Model T,"Electric Engine, Manual Transmission, Blind Spot Monitor, Sunroof",13268,7,No,4.8,Electric
+Luxury,Lexus LS,"Blind Spot Monitor, Automatic Transmission, Leather Seats, Heated Seats, All-Wheel Drive, GPS Navigation",10516,4,Yes,4.8,Diesel
+Vintage,Plymouth Road Runner,"Hybrid Engine, Lane Departure Warning, Parking Sensors",12871,6,Yes,3.7,Electric
+Off-Road,Ford Bronco,"Lane Departure Warning, Heated Seats, Parking Sensors, Sunroof, Bluetooth",5009,7,Yes,3.7,Electric
+Electric,Mahindra eVerito,"Manual Transmission, Backup Camera, Automatic Transmission, Bluetooth",3239,4,Yes,3.7,Electric
+Hatchback,Maruti Suzuki Baleno,"Leather Seats, Electric Engine, Sunroof, Backup Camera, Air Conditioning, Heated Seats",2786,4,No,3.6,Hybrid
+Electric,MG ZS EV,"Manual Transmission, Hybrid Engine, Heated Seats, Backup Camera, Blind Spot Monitor, Leather Seats",2144,6,No,4.3,Electric
+Off-Road,Jeep Wrangler,"Air Conditioning, Leather Seats, Parking Sensors, Bluetooth, Cruise Control",4941,4,Yes,4.7,Diesel
+Electric,Tata Nexon EV,"GPS Navigation, Electric Engine, Parking Sensors",3064,7,Yes,4.6,Electric
+SUV,Toyota Fortuner,"Hybrid Engine, Cruise Control, Air Conditioning, Manual Transmission",5601,5,No,3.8,Petrol
+Off-Road,Jeep Wrangler,"Bluetooth, Automatic Transmission, Sunroof, Manual Transmission, Parking Sensors",3623,7,Yes,4.4,Hybrid
+Luxury,Audi A8,"Blind Spot Monitor, Hybrid Engine, Electric Engine",7600,7,No,3.5,Diesel
+Electric,Mahindra eVerito,"Manual Transmission, Bluetooth, All-Wheel Drive, Blind Spot Monitor",3269,6,Yes,4.8,Electric
+Electric,MG ZS EV,"Parking Sensors, All-Wheel Drive, Air Conditioning, Bluetooth",2871,4,No,3.5,Electric
+Electric,MG ZS EV,"Lane Departure Warning, Heated Seats, Parking Sensors",2238,5,No,4.3,Electric
+Vintage,Ford Model T,"Sunroof, Blind Spot Monitor, Hybrid Engine, Electric Engine, Bluetooth",5786,5,Yes,4.6,Hybrid
+SUV,Jeep Compass,"Electric Engine, Blind Spot Monitor, Leather Seats, Bluetooth, Sunroof, Backup Camera",3138,5,Yes,4.8,Diesel
+Off-Road,Toyota Land Cruiser,"GPS Navigation, Backup Camera, Leather Seats, Heated Seats, Sunroof",4730,6,Yes,3.5,Hybrid
+Electric,Mahindra eVerito,"All-Wheel Drive, Lane Departure Warning, Leather Seats",2897,7,Yes,4.6,Electric
+Electric,Hyundai Kona Electric,"Blind Spot Monitor, Heated Seats, Lane Departure Warning, GPS Navigation",2233,6,No,3.9,Electric
+Hatchback,Tata Altroz,"Air Conditioning, Manual Transmission, Leather Seats, All-Wheel Drive, Lane Departure Warning, Electric Engine",1416,6,No,4.1,Electric
+Hatchback,Honda WR-V,"Manual Transmission, Backup Camera, Leather Seats, Parking Sensors",2670,4,Yes,3.6,Electric
+Vintage,Rolls Royce Silver Ghost,"Lane Departure Warning, GPS Navigation, All-Wheel Drive, Blind Spot Monitor, Cruise Control, Leather Seats",8323,7,No,4.8,Diesel
+SUV,Ford Endeavour,"Electric Engine, Hybrid Engine, Backup Camera, Leather Seats, All-Wheel Drive",3565,5,Yes,4.4,Diesel
+Off-Road,Land Rover Defender,"Bluetooth, GPS Navigation, Leather Seats, Cruise Control",5332,7,Yes,3.7,Electric
+Luxury,Lexus LS,"All-Wheel Drive, Backup Camera, Manual Transmission, Lane Departure Warning",6430,5,Yes,4.0,Diesel
+SUV,Ford Endeavour,"Electric Engine, Heated Seats, All-Wheel Drive, Cruise Control",5965,4,No,3.8,Diesel
+Luxury,Jaguar XJ,"Leather Seats, Cruise Control, Manual Transmission, Heated Seats",6613,7,Yes,4.7,Electric
+Luxury,Lexus LS,"Sunroof, Backup Camera, Cruise Control, All-Wheel Drive, Air Conditioning, Lane Departure Warning",7925,6,No,3.7,Petrol
+Hatchback,Toyota Glanza,"Bluetooth, Air Conditioning, Electric Engine, Sunroof, Manual Transmission, Backup Camera",1744,6,Yes,4.0,Diesel
+Hatchback,Honda WR-V,"Bluetooth, Heated Seats, Cruise Control, Lane Departure Warning, Backup Camera",2223,6,No,3.3,Diesel
+Luxury,BMW 7 Series,"Lane Departure Warning, Cruise Control, GPS Navigation, Backup Camera, Blind Spot Monitor, Bluetooth",9106,5,Yes,3.5,Diesel
+Electric,Hyundai Kona Electric,"GPS Navigation, Electric Engine, Cruise Control, Leather Seats",3827,4,Yes,3.0,Electric
+Electric,Tata Nexon EV,"Backup Camera, Sunroof, All-Wheel Drive, Air Conditioning",3984,5,Yes,4.1,Electric
+Luxury,Jaguar XJ,"Hybrid Engine, Sunroof, Air Conditioning",9586,4,Yes,3.2,Electric
+Electric,Tesla Model 3,"Sunroof, Blind Spot Monitor, Electric Engine",2747,7,No,3.4,Electric
+Electric,MG ZS EV,"Bluetooth, Manual Transmission, Parking Sensors, Sunroof, Backup Camera",3780,4,Yes,4.9,Electric
+SUV,Mahindra XUV700,"Cruise Control, Blind Spot Monitor, Electric Engine, Backup Camera",5157,4,Yes,4.4,Hybrid
+SUV,Jeep Compass,"Parking Sensors, All-Wheel Drive, Heated Seats, Bluetooth",3445,7,Yes,4.5,Petrol
+Luxury,Lexus LS,"All-Wheel Drive, Cruise Control, Heated Seats, Air Conditioning, Bluetooth",11443,7,No,4.0,Electric
+Hatchback,Hyundai i20,"Leather Seats, Lane Departure Warning, GPS Navigation",2412,5,No,4.9,Diesel
+Luxury,Jaguar XJ,"Backup Camera, Blind Spot Monitor, Cruise Control, Automatic Transmission, Heated Seats",7698,6,No,4.5,Petrol
+Electric,Hyundai Kona Electric,"Bluetooth, Electric Engine, Sunroof, Automatic Transmission, Air Conditioning, Cruise Control",2032,6,No,4.6,Electric
+SUV,Toyota Fortuner,"Heated Seats, Manual Transmission, Leather Seats, Blind Spot Monitor",3065,7,Yes,3.8,Hybrid
+Hatchback,Maruti Suzuki Swift,"Blind Spot Monitor, All-Wheel Drive, Sunroof, Bluetooth, Hybrid Engine, Automatic Transmission",1705,7,Yes,3.1,Electric
+Vintage,Jaguar XK120,"Bluetooth, Blind Spot Monitor, Hybrid Engine, Heated Seats",7435,4,No,3.4,Hybrid
+SUV,Tata Safari,"Manual Transmission, Leather Seats, GPS Navigation, Bluetooth",4330,4,Yes,4.8,Hybrid
+Luxury,Audi A8,"Backup Camera, Manual Transmission, Cruise Control, GPS Navigation",7356,7,No,4.5,Hybrid
+Vintage,Plymouth Road Runner,"Lane Departure Warning, Backup Camera, All-Wheel Drive, Hybrid Engine",12178,6,No,3.1,Hybrid
+Vintage,Ford Model T,"Air Conditioning, Heated Seats, Bluetooth, Cruise Control, Backup Camera, Manual Transmission",8294,7,Yes,3.4,Diesel
+Off-Road,Land Rover Defender,"Heated Seats, Backup Camera, Hybrid Engine",4922,5,No,3.8,Electric
+Electric,Tata Nexon EV,"Hybrid Engine, Blind Spot Monitor, GPS Navigation, Electric Engine, Lane Departure Warning, Heated Seats",3896,5,Yes,4.5,Electric
+Electric,MG ZS EV,"Parking Sensors, Lane Departure Warning, Sunroof, Bluetooth, Leather Seats, Backup Camera",2122,4,Yes,4.7,Electric
+Vintage,Chevrolet Bel Air,"Automatic Transmission, GPS Navigation, Hybrid Engine, Manual Transmission",12628,5,No,4.4,Diesel
+Off-Road,Toyota Land Cruiser,"Cruise Control, Sunroof, Backup Camera",4409,5,No,3.4,Diesel
+Hatchback,Renault Kwid,"Lane Departure Warning, Heated Seats, Cruise Control",1721,4,No,4.6,Petrol
+Electric,Mahindra eVerito,"Automatic Transmission, Sunroof, Backup Camera",2381,6,No,4.8,Electric
+Luxury,Jaguar XJ,"GPS Navigation, Electric Engine, Manual Transmission, Air Conditioning",9045,6,Yes,4.0,Petrol
+Electric,Tesla Model 3,"Sunroof, Bluetooth, Hybrid Engine, Leather Seats, Electric Engine",2624,6,No,4.1,Electric
+Electric,Tata Nexon EV,"Lane Departure Warning, Backup Camera, Heated Seats, Electric Engine",2572,6,Yes,4.3,Electric
+Vintage,Plymouth Road Runner,"Sunroof, Lane Departure Warning, Heated Seats",14817,4,No,4.8,Hybrid
+Vintage,Plymouth Road Runner,"Cruise Control, Heated Seats, GPS Navigation",8360,5,No,4.2,Diesel
+Luxury,Jaguar XJ,"Bluetooth, Leather Seats, Manual Transmission, Heated Seats",9721,5,No,3.5,Electric
+Off-Road,Jeep Wrangler,"Cruise Control, Sunroof, Parking Sensors, Automatic Transmission",3711,7,No,4.6,Electric
+SUV,Tata Safari,"GPS Navigation, Manual Transmission, Cruise Control, Sunroof",5793,7,Yes,4.2,Hybrid
+Hatchback,Tata Tiago,"Electric Engine, Sunroof, All-Wheel Drive",1522,6,Yes,3.5,Hybrid
+Luxury,Audi A8,"Air Conditioning, Lane Departure Warning, Automatic Transmission, Electric Engine, Cruise Control",6299,7,Yes,4.9,Diesel
+Hatchback,Tata Tiago,"Bluetooth, Manual Transmission, Cruise Control, Lane Departure Warning",2695,7,Yes,4.2,Diesel
+SUV,Tata Safari,"GPS Navigation, Bluetooth, Lane Departure Warning, Automatic Transmission",4269,5,Yes,3.4,Diesel
+Off-Road,Toyota Land Cruiser,"Cruise Control, Manual Transmission, Electric Engine, Air Conditioning",3411,7,Yes,3.5,Electric
+SUV,Toyota Fortuner,"Manual Transmission, Parking Sensors, All-Wheel Drive",5738,4,No,3.0,Electric
+Off-Road,Toyota Land Cruiser,"Heated Seats, Sunroof, Leather Seats",5202,7,No,4.6,Diesel
+SUV,Tata Safari,"Parking Sensors, Hybrid Engine, Blind Spot Monitor",5689,7,Yes,3.1,Diesel
+Off-Road,Suzuki Jimny,"Air Conditioning, GPS Navigation, Heated Seats, Electric Engine",4321,6,Yes,3.7,Diesel
+Luxury,Mercedes-Benz S-Class,"Sunroof, Manual Transmission, Blind Spot Monitor, Bluetooth, Automatic Transmission",5648,5,Yes,3.7,Diesel
+SUV,Ford Endeavour,"Sunroof, Blind Spot Monitor, Bluetooth, Parking Sensors, Electric Engine, Air Conditioning",3309,7,Yes,4.3,Electric
+Off-Road,Toyota Land Cruiser,"Backup Camera, Air Conditioning, Sunroof, Lane Departure Warning, Hybrid Engine",5936,7,No,4.5,Diesel
+Off-Road,Ford Bronco,"Air Conditioning, Leather Seats, Backup Camera, Lane Departure Warning, Hybrid Engine",3101,4,No,3.8,Hybrid
+SUV,Tata Safari,"All-Wheel Drive, Cruise Control, Bluetooth, Air Conditioning",5131,6,No,3.7,Electric
+Electric,Hyundai Kona Electric,"Heated Seats, Electric Engine, Lane Departure Warning, Air Conditioning, Backup Camera",2721,7,No,4.4,Electric
+SUV,Mahindra XUV700,"Blind Spot Monitor, Manual Transmission, GPS Navigation, Cruise Control, Lane Departure Warning",3583,7,No,3.7,Electric
+Off-Road,Toyota Land Cruiser,"Backup Camera, GPS Navigation, Blind Spot Monitor, Heated Seats, Bluetooth, All-Wheel Drive",4663,5,Yes,3.7,Diesel
+SUV,Mahindra XUV700,"Leather Seats, Hybrid Engine, Bluetooth",4322,5,Yes,3.2,Petrol
+SUV,Toyota Fortuner,"Heated Seats, Air Conditioning, GPS Navigation, All-Wheel Drive",4050,6,No,4.9,Diesel
+Luxury,Mercedes-Benz S-Class,"Blind Spot Monitor, Air Conditioning, All-Wheel Drive, Manual Transmission, Cruise Control",11702,4,No,3.8,Diesel
+Hatchback,Maruti Suzuki Swift,"Sunroof, Backup Camera, Bluetooth, Blind Spot Monitor, All-Wheel Drive, Air Conditioning",1211,4,Yes,4.3,Electric
+Luxury,Jaguar XJ,"Cruise Control, Air Conditioning, Leather Seats, Parking Sensors, Sunroof, All-Wheel Drive",10756,7,Yes,3.0,Electric
+Vintage,Ford Model T,"Heated Seats, Automatic Transmission, Air Conditioning, Manual Transmission, Sunroof",9111,6,No,4.2,Diesel
+Hatchback,Ford Figo,"Air Conditioning, Cruise Control, Hybrid Engine, GPS Navigation, Leather Seats, Lane Departure Warning",1210,4,No,4.0,Petrol
+Electric,MG ZS EV,"Parking Sensors, Leather Seats, Automatic Transmission, Manual Transmission",2974,6,No,4.3,Electric
+Vintage,Ford Model T,"Heated Seats, All-Wheel Drive, Air Conditioning",10567,7,No,4.3,Electric
+Off-Road,Jeep Wrangler,"Lane Departure Warning, Air Conditioning, Heated Seats, Sunroof, Manual Transmission",3506,7,Yes,5.0,Petrol
+Vintage,Ford Model T,"Leather Seats, Automatic Transmission, Backup Camera, Lane Departure Warning, Manual Transmission, Blind Spot Monitor",10467,5,Yes,4.7,Electric
+Vintage,Plymouth Road Runner,"Backup Camera, Heated Seats, Cruise Control",14356,4,Yes,3.2,Hybrid
+SUV,Toyota Fortuner,"Blind Spot Monitor, Manual Transmission, Air Conditioning, Hybrid Engine, Backup Camera, Automatic Transmission",5854,4,Yes,4.2,Petrol
+Hatchback,Volkswagen Polo,"Parking Sensors, Automatic Transmission, Heated Seats",2912,6,Yes,4.7,Electric
+Electric,Tesla Model 3,"Backup Camera, Cruise Control, Lane Departure Warning, Hybrid Engine, GPS Navigation, All-Wheel Drive",2377,7,No,3.2,Electric
+Hatchback,Honda WR-V,"Blind Spot Monitor, Air Conditioning, GPS Navigation, Cruise Control, Backup Camera",2304,4,Yes,4.7,Petrol
+Electric,Tata Nexon EV,"GPS Navigation, Blind Spot Monitor, Automatic Transmission",3911,6,No,4.1,Electric
+SUV,Ford Endeavour,"Automatic Transmission, Parking Sensors, Lane Departure Warning",4192,5,Yes,3.8,Electric
+Hatchback,Hyundai Grand i10 Nios,"Air Conditioning, Backup Camera, Hybrid Engine",1932,6,No,3.3,Diesel
+Vintage,Rolls Royce Silver Ghost,"Cruise Control, Automatic Transmission, Parking Sensors, Manual Transmission, Bluetooth",5998,4,Yes,4.2,Electric
+Hatchback,Toyota Glanza,"GPS Navigation, Manual Transmission, Parking Sensors",2791,6,Yes,4.1,Hybrid
+Electric,Hyundai Kona Electric,"Hybrid Engine, Sunroof, Manual Transmission, Electric Engine, GPS Navigation",3960,7,Yes,4.6,Electric
+Luxury,Audi A8,"Parking Sensors, Backup Camera, Blind Spot Monitor",6982,6,No,4.6,Electric
+Luxury,Mercedes-Benz S-Class,"Leather Seats, All-Wheel Drive, Lane Departure Warning, Automatic Transmission",8368,5,Yes,4.1,Petrol
+Electric,Mahindra eVerito,"Air Conditioning, Electric Engine, All-Wheel Drive, Bluetooth",3379,4,No,4.5,Electric
+Vintage,Ford Model T,"All-Wheel Drive, GPS Navigation, Sunroof, Automatic Transmission",5669,7,Yes,4.8,Hybrid
+Off-Road,Land Rover Defender,"Leather Seats, Sunroof, Hybrid Engine",3906,7,No,3.6,Petrol
+Hatchback,Tata Altroz,"Backup Camera, Bluetooth, All-Wheel Drive, Heated Seats, Leather Seats, Automatic Transmission",2433,6,Yes,3.3,Petrol
+SUV,Tata Safari,"Sunroof, Backup Camera, Parking Sensors, Heated Seats, All-Wheel Drive, Electric Engine",4520,6,Yes,4.8,Petrol
+Vintage,Jaguar XK120,"Electric Engine, Heated Seats, Sunroof",7630,6,Yes,4.0,Petrol
+Luxury,Mercedes-Benz S-Class,"Backup Camera, Parking Sensors, Automatic Transmission, All-Wheel Drive",11941,7,Yes,3.2,Diesel
+Vintage,Rolls Royce Silver Ghost,"Sunroof, All-Wheel Drive, Leather Seats, Automatic Transmission, Lane Departure Warning, Air Conditioning",10587,7,Yes,4.2,Diesel
+Hatchback,Tata Altroz,"Sunroof, Hybrid Engine, GPS Navigation, Backup Camera",1043,5,No,4.9,Hybrid
+Vintage,Ford Model T,"Electric Engine, Sunroof, Lane Departure Warning, Hybrid Engine, Air Conditioning",10411,5,No,3.6,Hybrid
+Luxury,Jaguar XJ,"Sunroof, Backup Camera, Hybrid Engine, Manual Transmission, Cruise Control, Bluetooth",5884,5,No,3.6,Electric
+Off-Road,Suzuki Jimny,"Heated Seats, Manual Transmission, Leather Seats",3618,5,Yes,5.0,Petrol
+Hatchback,Renault Kwid,"Sunroof, Heated Seats, Bluetooth, Cruise Control, Parking Sensors, Manual Transmission",2028,4,No,3.8,Hybrid
+SUV,Tata Safari,"GPS Navigation, Blind Spot Monitor, Leather Seats, Automatic Transmission",5253,7,No,4.3,Petrol
+Vintage,Rolls Royce Silver Ghost,"Automatic Transmission, Hybrid Engine, Air Conditioning, Cruise Control, All-Wheel Drive",5986,5,Yes,3.7,Electric
+Off-Road,Ford Bronco,"Cruise Control, Electric Engine, Lane Departure Warning",4604,4,No,3.4,Diesel
+Off-Road,Suzuki Jimny,"Cruise Control, Leather Seats, Parking Sensors, Blind Spot Monitor",4537,7,Yes,4.8,Hybrid
+Hatchback,Hyundai i20,"Parking Sensors, Blind Spot Monitor, Air Conditioning, Automatic Transmission, Hybrid Engine, GPS Navigation",2314,5,No,4.2,Petrol
+Off-Road,Jeep Wrangler,"Hybrid Engine, GPS Navigation, Automatic Transmission, Leather Seats, Backup Camera",5626,5,No,4.5,Diesel
+SUV,Toyota Fortuner,"Leather Seats, Cruise Control, Hybrid Engine",4275,7,No,3.8,Hybrid
+Vintage,Jaguar XK120,"Backup Camera, Leather Seats, All-Wheel Drive, Sunroof, Lane Departure Warning",8148,7,Yes,3.4,Hybrid
+Off-Road,Suzuki Jimny,"All-Wheel Drive, Electric Engine, GPS Navigation, Automatic Transmission, Lane Departure Warning, Air Conditioning",5820,6,Yes,4.6,Hybrid
+Hatchback,Maruti Suzuki Baleno,"Automatic Transmission, Cruise Control, Leather Seats, Backup Camera, GPS Navigation",1090,6,Yes,3.2,Hybrid
+Hatchback,Honda WR-V,"GPS Navigation, Air Conditioning, Leather Seats, Hybrid Engine, Blind Spot Monitor, Bluetooth",2765,4,No,4.7,Petrol
+Luxury,Lexus LS,"Sunroof, GPS Navigation, Blind Spot Monitor",6672,4,Yes,3.8,Hybrid
+Luxury,Jaguar XJ,"Cruise Control, Automatic Transmission, Leather Seats, Backup Camera",11797,4,No,4.5,Petrol
+Luxury,Audi A8,"Blind Spot Monitor, GPS Navigation, Air Conditioning",5665,4,Yes,3.0,Petrol
+Luxury,Jaguar XJ,"Air Conditioning, Bluetooth, Electric Engine",10670,7,No,4.2,Hybrid
+Electric,Mahindra eVerito,"Electric Engine, Cruise Control, Blind Spot Monitor, Air Conditioning, Leather Seats",2039,4,No,4.4,Electric
+Off-Road,Land Rover Defender,"GPS Navigation, Leather Seats, Hybrid Engine, Heated Seats",3575,6,Yes,3.6,Diesel
+Hatchback,Honda Jazz,"Lane Departure Warning, Automatic Transmission, Leather Seats, Blind Spot Monitor, All-Wheel Drive, Air Conditioning",1191,4,Yes,4.0,Diesel
+Off-Road,Toyota Land Cruiser,"Blind Spot Monitor, Parking Sensors, Bluetooth, Air Conditioning",4242,4,No,3.1,Hybrid
+SUV,Mahindra XUV700,"Parking Sensors, Air Conditioning, Heated Seats, Backup Camera",3182,4,No,3.6,Petrol
+Electric,Hyundai Kona Electric,"Backup Camera, Heated Seats, GPS Navigation, Sunroof, Manual Transmission",3005,5,Yes,3.0,Electric
+Hatchback,Hyundai Santro,"Parking Sensors, Air Conditioning, Manual Transmission, Heated Seats, Blind Spot Monitor",1059,7,No,4.8,Petrol
+Luxury,Lexus LS,"Backup Camera, Parking Sensors, Blind Spot Monitor",11406,4,Yes,3.5,Petrol
+Hatchback,Maruti Suzuki Swift,"Electric Engine, Bluetooth, Air Conditioning, Hybrid Engine, Leather Seats, Parking Sensors",2759,4,No,3.9,Electric
+Off-Road,Ford Bronco,"Sunroof, Heated Seats, Leather Seats, All-Wheel Drive, GPS Navigation, Cruise Control",4258,6,No,4.0,Diesel
+Vintage,Ford Model T,"Electric Engine, Manual Transmission, Parking Sensors, Backup Camera",10850,4,Yes,4.6,Electric
+Hatchback,Hyundai i20,"GPS Navigation, Parking Sensors, Lane Departure Warning",2479,5,No,3.1,Petrol
+Hatchback,Tata Tiago,"Lane Departure Warning, Cruise Control, Heated Seats, Hybrid Engine, Leather Seats, Blind Spot Monitor",1493,5,Yes,3.2,Electric
+Luxury,BMW 7 Series,"Parking Sensors, Air Conditioning, Hybrid Engine",8081,7,No,4.9,Diesel
+Vintage,Plymouth Road Runner,"Lane Departure Warning, Bluetooth, Backup Camera, Hybrid Engine, Manual Transmission, Heated Seats",6342,5,No,3.1,Hybrid
+Hatchback,Tata Altroz,"Backup Camera, Automatic Transmission, Parking Sensors, Air Conditioning, Blind Spot Monitor, Cruise Control",2589,4,No,4.9,Petrol
+Hatchback,Honda Jazz,"Leather Seats, Cruise Control, Sunroof, Electric Engine, Automatic Transmission, GPS Navigation",2545,4,Yes,4.3,Electric
+Vintage,Plymouth Road Runner,"Automatic Transmission, Air Conditioning, Blind Spot Monitor, GPS Navigation, Bluetooth",8636,4,Yes,4.0,Electric
+Hatchback,Nissan Magnite,"Backup Camera, Heated Seats, All-Wheel Drive",2019,5,No,5.0,Petrol
+Luxury,BMW 7 Series,"Blind Spot Monitor, GPS Navigation, Hybrid Engine, Bluetooth, Automatic Transmission, Electric Engine",6432,4,Yes,3.6,Diesel
+Off-Road,Land Rover Defender,"GPS Navigation, Backup Camera, Air Conditioning, Electric Engine",3473,7,No,4.0,Diesel
+SUV,Toyota Fortuner,"Cruise Control, Electric Engine, Backup Camera",5403,5,No,4.1,Diesel
+Luxury,Audi A8,"Backup Camera, All-Wheel Drive, Cruise Control, Manual Transmission",8234,4,Yes,3.8,Diesel
+Electric,MG ZS EV,"Blind Spot Monitor, Leather Seats, Heated Seats, Hybrid Engine",2665,7,No,4.6,Electric
+Vintage,Ford Model T,"Backup Camera, Heated Seats, Blind Spot Monitor, Electric Engine, Lane Departure Warning",14023,5,Yes,3.6,Hybrid
+Off-Road,Toyota Land Cruiser,"All-Wheel Drive, Blind Spot Monitor, Bluetooth, Parking Sensors, GPS Navigation, Electric Engine",5145,5,Yes,3.6,Electric
+Vintage,Ford Model T,"Blind Spot Monitor, Sunroof, Manual Transmission, Lane Departure Warning",11922,5,Yes,3.1,Diesel
+Hatchback,Maruti Suzuki Celerio,"Cruise Control, Hybrid Engine, All-Wheel Drive, Lane Departure Warning, Backup Camera",2313,6,Yes,3.3,Hybrid
+Off-Road,Land Rover Defender,"Heated Seats, Blind Spot Monitor, Electric Engine, Cruise Control, Parking Sensors",5861,5,No,3.4,Hybrid
+SUV,Jeep Compass,"Cruise Control, Electric Engine, Parking Sensors",5960,5,No,3.5,Electric
+Off-Road,Ford Bronco,"Blind Spot Monitor, All-Wheel Drive, Parking Sensors, Cruise Control, Backup Camera",4353,7,Yes,4.3,Electric
+Luxury,Audi A8,"Manual Transmission, Leather Seats, Air Conditioning, Electric Engine",10749,6,Yes,3.3,Diesel
+Hatchback,Maruti Suzuki Celerio,"Hybrid Engine, Lane Departure Warning, Air Conditioning, Parking Sensors",2173,5,Yes,3.9,Diesel
+Electric,Tata Nexon EV,"Air Conditioning, Blind Spot Monitor, Sunroof",2885,6,Yes,4.5,Electric
+Electric,Tata Nexon EV,"Heated Seats, Blind Spot Monitor, GPS Navigation, Leather Seats, Sunroof, Air Conditioning",2523,6,Yes,4.6,Electric
+Luxury,Jaguar XJ,"Air Conditioning, Backup Camera, Cruise Control",9973,4,Yes,3.1,Diesel
+SUV,Ford Endeavour,"Air Conditioning, Sunroof, GPS Navigation, Automatic Transmission",5608,4,No,3.7,Petrol
+Hatchback,Maruti Suzuki Celerio,"Lane Departure Warning, Parking Sensors, Air Conditioning, Bluetooth, All-Wheel Drive",2018,5,No,3.5,Diesel
+SUV,Toyota Fortuner,"GPS Navigation, Bluetooth, Sunroof, Parking Sensors, Automatic Transmission",3476,5,No,3.4,Diesel
+Vintage,Plymouth Road Runner,"Sunroof, All-Wheel Drive, Electric Engine, Lane Departure Warning, GPS Navigation",5924,7,No,3.7,Petrol
+SUV,Jeep Compass,"Sunroof, Heated Seats, Backup Camera, Leather Seats",3648,4,No,3.1,Diesel
+Luxury,Lexus LS,"Backup Camera, Manual Transmission, Air Conditioning, Blind Spot Monitor, Automatic Transmission, Electric Engine",7262,4,Yes,4.8,Diesel
+Off-Road,Jeep Wrangler,"All-Wheel Drive, Manual Transmission, Blind Spot Monitor, Heated Seats",3768,5,No,4.2,Petrol
+Hatchback,Volkswagen Polo,"Cruise Control, Leather Seats, Blind Spot Monitor, Electric Engine",1066,6,No,4.0,Hybrid
+Off-Road,Jeep Wrangler,"Heated Seats, Backup Camera, All-Wheel Drive, Lane Departure Warning, Bluetooth, Air Conditioning",3022,7,No,4.2,Hybrid
+Luxury,Lexus LS,"Hybrid Engine, Heated Seats, Lane Departure Warning",5578,4,Yes,3.5,Hybrid
+Luxury,Jaguar XJ,"Lane Departure Warning, Blind Spot Monitor, GPS Navigation, Bluetooth, Parking Sensors, Leather Seats",5405,6,No,3.2,Hybrid
+Off-Road,Suzuki Jimny,"Lane Departure Warning, Cruise Control, Backup Camera",3909,4,No,3.4,Hybrid
+Vintage,Plymouth Road Runner,"GPS Navigation, Air Conditioning, Parking Sensors, Manual Transmission, Bluetooth",14288,7,Yes,3.6,Electric
+Luxury,Mercedes-Benz S-Class,"All-Wheel Drive, Electric Engine, Cruise Control, Manual Transmission, Automatic Transmission",8764,6,No,4.2,Hybrid
+SUV,Tata Safari,"Lane Departure Warning, Leather Seats, Parking Sensors",5883,7,Yes,3.0,Diesel
+Vintage,Rolls Royce Silver Ghost,"Lane Departure Warning, Hybrid Engine, Heated Seats",6130,6,No,3.7,Hybrid
+SUV,Ford Endeavour,"Blind Spot Monitor, All-Wheel Drive, Cruise Control, GPS Navigation, Sunroof, Leather Seats",4298,7,Yes,3.5,Hybrid
+Off-Road,Suzuki Jimny,"Manual Transmission, Cruise Control, Blind Spot Monitor, Parking Sensors",4000,5,No,4.0,Petrol
+Electric,Tesla Model 3,"Bluetooth, Hybrid Engine, Automatic Transmission, Air Conditioning, Parking Sensors",2130,5,No,4.2,Electric
+Electric,Hyundai Kona Electric,"Hybrid Engine, Backup Camera, Air Conditioning",3742,7,Yes,4.1,Electric
+Vintage,Chevrolet Bel Air,"Manual Transmission, Hybrid Engine, Cruise Control, Automatic Transmission, Electric Engine",5046,6,Yes,4.7,Hybrid
+Electric,Tata Nexon EV,"Automatic Transmission, Backup Camera, Air Conditioning, Parking Sensors, Bluetooth",2183,5,Yes,4.1,Electric
+SUV,Toyota Fortuner,"Manual Transmission, Automatic Transmission, Bluetooth, Air Conditioning, Hybrid Engine, Heated Seats",5975,7,Yes,3.1,Petrol
+Electric,Tata Nexon EV,"All-Wheel Drive, Blind Spot Monitor, Air Conditioning, Sunroof, Automatic Transmission, Bluetooth",3335,6,Yes,4.3,Electric
+Luxury,Mercedes-Benz S-Class,"Bluetooth, Cruise Control, Manual Transmission, Air Conditioning, Leather Seats, Parking Sensors",6752,5,Yes,4.5,Hybrid
+Off-Road,Suzuki Jimny,"Lane Departure Warning, Sunroof, Automatic Transmission, Cruise Control",4210,6,No,3.3,Electric
+SUV,Jeep Compass,"Automatic Transmission, Leather Seats, All-Wheel Drive, Backup Camera, Bluetooth, Hybrid Engine",4106,5,No,5.0,Electric
+Luxury,Jaguar XJ,"All-Wheel Drive, Leather Seats, Automatic Transmission, Blind Spot Monitor, Air Conditioning",11012,5,No,3.7,Electric
+Electric,MG ZS EV,"Manual Transmission, Cruise Control, Heated Seats, Electric Engine, Air Conditioning",3157,7,No,4.0,Electric
+Vintage,Rolls Royce Silver Ghost,"Heated Seats, Cruise Control, Blind Spot Monitor, Air Conditioning, Parking Sensors",7383,5,No,4.8,Electric
+SUV,Toyota Fortuner,"Blind Spot Monitor, GPS Navigation, Automatic Transmission, Backup Camera, Hybrid Engine",4508,5,No,3.6,Diesel
+Luxury,Audi A8,"Lane Departure Warning, GPS Navigation, Blind Spot Monitor, Hybrid Engine, Backup Camera",6415,4,No,4.1,Petrol
+Vintage,Rolls Royce Silver Ghost,"Automatic Transmission, Hybrid Engine, Air Conditioning",6447,7,Yes,4.7,Electric
+SUV,Mahindra XUV700,"Automatic Transmission, Parking Sensors, GPS Navigation",5493,7,Yes,3.6,Electric
+Hatchback,Tata Tiago,"Air Conditioning, Blind Spot Monitor, Sunroof, Backup Camera, Hybrid Engine, Electric Engine",2037,4,No,4.5,Hybrid
+Hatchback,Maruti Suzuki Baleno,"All-Wheel Drive, Air Conditioning, GPS Navigation",2458,6,No,4.2,Electric
+Hatchback,Tata Altroz,"GPS Navigation, Bluetooth, Blind Spot Monitor, Hybrid Engine, Air Conditioning, Lane Departure Warning",1970,7,No,3.4,Petrol
+SUV,Tata Safari,"Parking Sensors, Bluetooth, Heated Seats, Leather Seats",3598,5,Yes,4.3,Diesel
+Vintage,Plymouth Road Runner,"All-Wheel Drive, Backup Camera, Blind Spot Monitor, Lane Departure Warning",5167,6,Yes,3.9,Petrol
+Off-Road,Jeep Wrangler,"Blind Spot Monitor, All-Wheel Drive, Bluetooth",5318,6,No,4.6,Hybrid
+Electric,MG ZS EV,"Backup Camera, Bluetooth, Hybrid Engine",2285,6,Yes,3.5,Electric
+Hatchback,Maruti Suzuki Swift,"Cruise Control, Backup Camera, Bluetooth, GPS Navigation",1240,6,No,3.7,Electric
+Hatchback,Nissan Magnite,"All-Wheel Drive, Bluetooth, GPS Navigation, Air Conditioning, Sunroof, Manual Transmission",2745,4,No,4.0,Diesel
+Hatchback,Maruti Suzuki Celerio,"Air Conditioning, Electric Engine, Backup Camera, Bluetooth, Automatic Transmission, All-Wheel Drive",1324,4,No,3.6,Diesel
+Vintage,Ford Model T,"Electric Engine, Blind Spot Monitor, Air Conditioning, Lane Departure Warning, Manual Transmission, Leather Seats",9952,7,Yes,3.8,Diesel
+SUV,Ford Endeavour,"Parking Sensors, GPS Navigation, Blind Spot Monitor",5842,4,Yes,3.5,Hybrid
+SUV,Toyota Fortuner,"Leather Seats, Electric Engine, Lane Departure Warning",5810,6,No,4.8,Diesel
+Vintage,Jaguar XK120,"Electric Engine, Hybrid Engine, Sunroof, Lane Departure Warning, Backup Camera",13725,6,Yes,3.2,Electric
+SUV,Toyota Fortuner,"Leather Seats, Air Conditioning, Cruise Control, Bluetooth, Heated Seats, Lane Departure Warning",3259,4,No,3.7,Diesel
+Luxury,Jaguar XJ,"Manual Transmission, Heated Seats, GPS Navigation, Parking Sensors, Hybrid Engine, Electric Engine",10804,6,Yes,3.2,Electric
+Electric,Hyundai Kona Electric,"Parking Sensors, Sunroof, Hybrid Engine",3838,7,No,3.8,Electric
+SUV,Toyota Fortuner,"Heated Seats, Cruise Control, Hybrid Engine, All-Wheel Drive",4819,7,Yes,4.9,Electric
+Electric,Mahindra eVerito,"Heated Seats, Lane Departure Warning, Leather Seats, Air Conditioning, Electric Engine, Sunroof",3642,5,Yes,4.7,Electric
+Vintage,Ford Model T,"Bluetooth, All-Wheel Drive, Air Conditioning, Electric Engine",8434,7,Yes,4.7,Hybrid
+Luxury,Jaguar XJ,"GPS Navigation, Backup Camera, Blind Spot Monitor, Bluetooth, Leather Seats",7124,4,No,4.0,Hybrid
+SUV,Ford Endeavour,"Sunroof, Heated Seats, Parking Sensors",5481,4,No,3.3,Diesel
+Off-Road,Toyota Land Cruiser,"Parking Sensors, Manual Transmission, Backup Camera, Automatic Transmission",3218,5,No,3.9,Hybrid
+Vintage,Rolls Royce Silver Ghost,"Blind Spot Monitor, Sunroof, Manual Transmission, All-Wheel Drive",7015,4,Yes,3.2,Hybrid
+Luxury,Lexus LS,"All-Wheel Drive, Heated Seats, Sunroof, Air Conditioning, Parking Sensors, Automatic Transmission",9070,6,No,4.9,Petrol
+Electric,MG ZS EV,"Electric Engine, GPS Navigation, Cruise Control, Automatic Transmission, Backup Camera, Manual Transmission",2657,4,No,3.9,Electric
+Luxury,Mercedes-Benz S-Class,"Cruise Control, All-Wheel Drive, Air Conditioning",8841,5,No,4.0,Electric
+Electric,MG ZS EV,"Hybrid Engine, Blind Spot Monitor, Automatic Transmission, Air Conditioning, Electric Engine",3448,5,No,4.2,Electric
+Luxury,Mercedes-Benz S-Class,"Bluetooth, Heated Seats, GPS Navigation, All-Wheel Drive",9926,6,Yes,3.9,Diesel
+Hatchback,Honda Jazz,"Backup Camera, Hybrid Engine, Bluetooth",1016,5,Yes,3.2,Electric
+Off-Road,Ford Bronco,"All-Wheel Drive, Heated Seats, Air Conditioning, Manual Transmission, Lane Departure Warning",5430,6,No,4.3,Diesel
+Luxury,Lexus LS,"Leather Seats, Electric Engine, All-Wheel Drive, Cruise Control, Backup Camera",9482,6,No,3.0,Electric
+Electric,Mahindra eVerito,"Heated Seats, Bluetooth, Hybrid Engine, Manual Transmission",3639,5,Yes,4.9,Electric
+SUV,Ford Endeavour,"Blind Spot Monitor, Hybrid Engine, Heated Seats, Leather Seats, GPS Navigation",4310,5,Yes,4.2,Hybrid
+Electric,Tesla Model 3,"Electric Engine, Blind Spot Monitor, Cruise Control, Backup Camera",3298,5,Yes,4.2,Electric
+Electric,MG ZS EV,"Automatic Transmission, Manual Transmission, GPS Navigation, Bluetooth, Leather Seats",2969,5,Yes,4.4,Electric
+SUV,Toyota Fortuner,"Backup Camera, Lane Departure Warning, Electric Engine",4257,4,No,3.1,Diesel
+Off-Road,Jeep Wrangler,"Bluetooth, Air Conditioning, Leather Seats",3159,5,No,4.0,Petrol
+Hatchback,Hyundai Grand i10 Nios,"Leather Seats, Hybrid Engine, Bluetooth",2057,4,No,3.4,Hybrid
+Off-Road,Land Rover Defender,"Electric Engine, Bluetooth, Backup Camera, Leather Seats, Hybrid Engine",3251,5,No,3.7,Petrol
+Electric,Tata Nexon EV,"Electric Engine, Cruise Control, Leather Seats, Sunroof, Heated Seats, Blind Spot Monitor",3497,7,Yes,3.8,Electric
+Luxury,Jaguar XJ,"Electric Engine, Manual Transmission, Hybrid Engine, Bluetooth, Blind Spot Monitor, Air Conditioning",5302,4,Yes,4.8,Petrol
+Electric,MG ZS EV,"All-Wheel Drive, Backup Camera, Lane Departure Warning, Electric Engine, Air Conditioning",3019,6,No,3.4,Electric
+Electric,Tesla Model 3,"Hybrid Engine, Air Conditioning, Automatic Transmission, Backup Camera, Cruise Control, All-Wheel Drive",2865,4,No,3.7,Electric
+Off-Road,Jeep Wrangler,"Air Conditioning, Leather Seats, GPS Navigation",5954,5,No,3.6,Hybrid
+Off-Road,Toyota Land Cruiser,"Backup Camera, Automatic Transmission, Leather Seats, Lane Departure Warning, Blind Spot Monitor",5328,6,No,3.0,Petrol
+SUV,Toyota Fortuner,"Automatic Transmission, Sunroof, Lane Departure Warning, Backup Camera, Cruise Control, Manual Transmission",3130,6,Yes,3.5,Petrol
+Hatchback,Honda WR-V,"Hybrid Engine, Air Conditioning, Manual Transmission, Heated Seats",2650,6,Yes,4.2,Hybrid
+Off-Road,Ford Bronco,"Hybrid Engine, Bluetooth, Blind Spot Monitor, Cruise Control, Leather Seats",4724,5,No,4.3,Petrol
+SUV,Tata Safari,"Bluetooth, Hybrid Engine, Manual Transmission, GPS Navigation, Automatic Transmission, Blind Spot Monitor",4510,7,No,4.0,Petrol
+Off-Road,Land Rover Defender,"All-Wheel Drive, Parking Sensors, Sunroof",4900,4,Yes,4.9,Hybrid
+Electric,Tesla Model 3,"Automatic Transmission, Leather Seats, Heated Seats, Electric Engine, GPS Navigation, Hybrid Engine",2660,5,Yes,3.1,Electric
+Luxury,Lexus LS,"Blind Spot Monitor, Cruise Control, Backup Camera",11872,4,Yes,3.7,Electric
+SUV,Jeep Compass,"Heated Seats, Manual Transmission, Leather Seats, GPS Navigation, Lane Departure Warning, Blind Spot Monitor",4468,6,Yes,4.8,Petrol
+Off-Road,Jeep Wrangler,"Heated Seats, Leather Seats, Cruise Control, Automatic Transmission",3061,6,Yes,3.9,Petrol
+SUV,Tata Safari,"Manual Transmission, Parking Sensors, GPS Navigation",4343,5,No,3.0,Hybrid
+Luxury,Lexus LS,"Air Conditioning, Heated Seats, Blind Spot Monitor, Leather Seats, Sunroof, Lane Departure Warning",11490,5,Yes,4.1,Petrol
+Electric,MG ZS EV,"Bluetooth, Parking Sensors, Heated Seats, Sunroof, Backup Camera",3001,6,Yes,4.3,Electric
+SUV,Ford Endeavour,"Manual Transmission, Electric Engine, Lane Departure Warning, Hybrid Engine, Air Conditioning, Cruise Control",4898,6,No,3.4,Electric
+Electric,Tata Nexon EV,"Sunroof, All-Wheel Drive, GPS Navigation, Bluetooth, Parking Sensors",3675,4,No,3.1,Electric
+Luxury,Audi A8,"Backup Camera, Heated Seats, Air Conditioning",5159,7,Yes,4.8,Hybrid
+Electric,Hyundai Kona Electric,"Hybrid Engine, Blind Spot Monitor, Cruise Control, Sunroof",3919,7,Yes,3.2,Electric
+Electric,Hyundai Kona Electric,"Electric Engine, Heated Seats, Hybrid Engine",3509,4,No,4.1,Electric
+Hatchback,Maruti Suzuki Baleno,"Manual Transmission, Automatic Transmission, Leather Seats, Cruise Control, Electric Engine, Blind Spot Monitor",1140,7,Yes,4.5,Electric
+SUV,Tata Safari,"Leather Seats, All-Wheel Drive, GPS Navigation, Parking Sensors, Bluetooth, Air Conditioning",5593,4,No,3.2,Hybrid
+Hatchback,Hyundai i20,"Hybrid Engine, Heated Seats, Automatic Transmission, Air Conditioning",1077,6,Yes,4.5,Petrol
+Off-Road,Land Rover Defender,"Automatic Transmission, Heated Seats, Cruise Control",4074,7,Yes,4.6,Diesel
+SUV,Ford Endeavour,"Hybrid Engine, Parking Sensors, Manual Transmission",3869,4,Yes,4.7,Hybrid
+Electric,Mahindra eVerito,"All-Wheel Drive, Hybrid Engine, Sunroof",2159,4,No,3.2,Electric
+Electric,MG ZS EV,"Parking Sensors, Lane Departure Warning, Leather Seats",3196,4,Yes,3.4,Electric
+Luxury,BMW 7 Series,"Leather Seats, Heated Seats, Bluetooth, Manual Transmission, Electric Engine, Parking Sensors",10194,5,Yes,4.2,Diesel
+Hatchback,Tata Altroz,"Bluetooth, Cruise Control, All-Wheel Drive, Automatic Transmission",1335,6,No,4.0,Diesel
+Off-Road,Ford Bronco,"GPS Navigation, Air Conditioning, Manual Transmission",5675,6,Yes,3.7,Diesel
+Off-Road,Suzuki Jimny,"Leather Seats, GPS Navigation, Lane Departure Warning, Sunroof, Bluetooth, Parking Sensors",4851,7,Yes,3.7,Petrol
+SUV,Jeep Compass,"Blind Spot Monitor, Bluetooth, Automatic Transmission",5710,4,Yes,4.9,Diesel
+Electric,MG ZS EV,"Bluetooth, GPS Navigation, Blind Spot Monitor",2678,7,Yes,3.6,Electric
+Luxury,Mercedes-Benz S-Class,"GPS Navigation, All-Wheel Drive, Heated Seats, Leather Seats, Blind Spot Monitor, Lane Departure Warning",10052,5,Yes,4.1,Hybrid
+SUV,Toyota Fortuner,"Leather Seats, Electric Engine, Backup Camera, Bluetooth, Blind Spot Monitor, Parking Sensors",3723,7,No,4.3,Diesel
+Luxury,Lexus LS,"GPS Navigation, Lane Departure Warning, Bluetooth, Parking Sensors",11269,5,Yes,5.0,Diesel
+Luxury,Jaguar XJ,"Hybrid Engine, Electric Engine, Sunroof, Parking Sensors, Blind Spot Monitor",7565,5,No,4.8,Electric
+Luxury,BMW 7 Series,"Air Conditioning, Leather Seats, Backup Camera, GPS Navigation",10859,5,No,3.5,Petrol
+Luxury,Mercedes-Benz S-Class,"All-Wheel Drive, Heated Seats, Hybrid Engine, Blind Spot Monitor, Backup Camera, Cruise Control",8139,5,No,3.1,Petrol
+Off-Road,Suzuki Jimny,"All-Wheel Drive, GPS Navigation, Heated Seats",3940,6,No,4.8,Petrol
+Off-Road,Ford Bronco,"GPS Navigation, Electric Engine, Manual Transmission",5040,5,Yes,4.5,Electric
+Luxury,Lexus LS,"Lane Departure Warning, Heated Seats, All-Wheel Drive, Air Conditioning, Leather Seats",8306,6,No,3.6,Diesel
+Electric,Mahindra eVerito,"Sunroof, Cruise Control, Heated Seats",3762,4,No,4.2,Electric
+Off-Road,Suzuki Jimny,"Parking Sensors, Manual Transmission, Leather Seats, Lane Departure Warning, Heated Seats, Blind Spot Monitor",3353,5,No,3.3,Electric
+Electric,Tata Nexon EV,"Parking Sensors, Heated Seats, GPS Navigation, Air Conditioning",2395,4,Yes,3.8,Electric
+Electric,Tata Nexon EV,"Air Conditioning, Electric Engine, GPS Navigation, Leather Seats, Bluetooth",3724,5,No,4.2,Electric
+Vintage,Ford Model T,"All-Wheel Drive, Air Conditioning, Leather Seats, Blind Spot Monitor, Heated Seats",14191,4,Yes,4.1,Electric
+Hatchback,Hyundai Santro,"Parking Sensors, Cruise Control, Lane Departure Warning, Electric Engine, Leather Seats, Manual Transmission",2048,4,Yes,3.7,Petrol
+Electric,Mahindra eVerito,"Electric Engine, Bluetooth, Blind Spot Monitor",2635,5,No,4.3,Electric
+Vintage,Chevrolet Bel Air,"Leather Seats, Sunroof, GPS Navigation, Manual Transmission, Air Conditioning, Backup Camera",9920,5,Yes,3.1,Hybrid
+Hatchback,Honda WR-V,"Blind Spot Monitor, Cruise Control, All-Wheel Drive, Backup Camera, Automatic Transmission, Sunroof",2245,5,No,3.7,Hybrid
+Vintage,Ford Model T,"Leather Seats, Backup Camera, All-Wheel Drive",10800,7,No,3.9,Diesel
+Off-Road,Jeep Wrangler,"Electric Engine, Hybrid Engine, Manual Transmission, Cruise Control, All-Wheel Drive",5040,5,No,3.3,Electric
+Off-Road,Jeep Wrangler,"All-Wheel Drive, Automatic Transmission, Bluetooth, Manual Transmission",3737,7,Yes,4.9,Electric
+SUV,Ford Endeavour,"Air Conditioning, GPS Navigation, Electric Engine",3678,4,Yes,4.4,Diesel
+Hatchback,Honda WR-V,"GPS Navigation, Bluetooth, Sunroof, Cruise Control",1339,6,No,4.3,Electric
+Electric,Tesla Model 3,"Leather Seats, Parking Sensors, Manual Transmission, Heated Seats, GPS Navigation",2748,6,Yes,3.6,Electric
+Luxury,Audi A8,"Backup Camera, GPS Navigation, Cruise Control",10657,6,Yes,3.4,Diesel
+Electric,Hyundai Kona Electric,"Bluetooth, Blind Spot Monitor, Sunroof, All-Wheel Drive, Parking Sensors, Lane Departure Warning",2723,6,Yes,4.3,Electric
+SUV,Mahindra XUV700,"Parking Sensors, Leather Seats, Bluetooth, GPS Navigation, All-Wheel Drive",3128,4,No,4.3,Petrol
+Off-Road,Toyota Land Cruiser,"Lane Departure Warning, Backup Camera, Sunroof, Automatic Transmission, Parking Sensors, Heated Seats",4130,4,Yes,5.0,Electric
+Electric,Mahindra eVerito,"Lane Departure Warning, Automatic Transmission, Air Conditioning, Leather Seats, Bluetooth",3002,7,Yes,3.1,Electric
+Off-Road,Suzuki Jimny,"Leather Seats, Blind Spot Monitor, Parking Sensors, Sunroof, Heated Seats",5059,5,No,4.9,Hybrid
+Luxury,Audi A8,"Heated Seats, Backup Camera, Electric Engine, Lane Departure Warning, Leather Seats",8880,6,Yes,4.8,Petrol
+Vintage,Ford Model T,"Air Conditioning, Automatic Transmission, Cruise Control, Blind Spot Monitor, GPS Navigation",9565,7,No,3.7,Petrol
+Electric,Hyundai Kona Electric,"Manual Transmission, Automatic Transmission, Blind Spot Monitor, Air Conditioning",3467,7,Yes,4.3,Electric
+Electric,Tesla Model 3,"Blind Spot Monitor, Sunroof, All-Wheel Drive, Cruise Control, Backup Camera",3281,6,Yes,4.1,Electric
+Luxury,Jaguar XJ,"Electric Engine, Backup Camera, Heated Seats",5390,6,Yes,4.8,Electric
+Hatchback,Hyundai i20,"Parking Sensors, Sunroof, Cruise Control, Automatic Transmission, Bluetooth, Electric Engine",2645,4,Yes,4.2,Diesel
+Off-Road,Ford Bronco,"Bluetooth, Parking Sensors, Automatic Transmission, Heated Seats, Sunroof",3885,4,No,4.2,Petrol
+Hatchback,Ford Figo,"GPS Navigation, Heated Seats, Electric Engine, Lane Departure Warning, Leather Seats",2828,4,Yes,3.2,Electric
+Hatchback,Ford Figo,"Cruise Control, Air Conditioning, Sunroof, Backup Camera",2470,6,Yes,4.1,Electric
+Electric,Tata Nexon EV,"Hybrid Engine, All-Wheel Drive, Sunroof, Leather Seats, Lane Departure Warning",3614,4,No,3.7,Electric
+Off-Road,Suzuki Jimny,"Heated Seats, Manual Transmission, Leather Seats, GPS Navigation",3558,5,Yes,4.1,Hybrid
+Hatchback,Tata Altroz,"GPS Navigation, Blind Spot Monitor, Air Conditioning, Hybrid Engine, Cruise Control",2269,7,No,4.6,Hybrid
+Off-Road,Suzuki Jimny,"Leather Seats, GPS Navigation, Automatic Transmission, Heated Seats",4345,6,No,3.9,Hybrid
+Off-Road,Ford Bronco,"Bluetooth, Parking Sensors, Cruise Control, Hybrid Engine, Air Conditioning, Automatic Transmission",4337,5,Yes,3.5,Petrol
+SUV,Ford Endeavour,"Air Conditioning, Backup Camera, Sunroof, Electric Engine, Manual Transmission, All-Wheel Drive",3937,6,No,4.1,Diesel
+SUV,Ford Endeavour,"Heated Seats, All-Wheel Drive, Blind Spot Monitor, Electric Engine, Backup Camera",3973,7,No,4.2,Diesel
+Hatchback,Tata Tiago,"Automatic Transmission, Manual Transmission, Sunroof",1140,6,No,5.0,Electric
+SUV,Mahindra XUV700,"Parking Sensors, Backup Camera, Heated Seats, Sunroof",3348,4,Yes,4.9,Diesel
+Luxury,Mercedes-Benz S-Class,"Hybrid Engine, Leather Seats, Sunroof, Blind Spot Monitor, Electric Engine, Manual Transmission",10111,4,No,3.8,Electric
+Electric,MG ZS EV,"Automatic Transmission, Manual Transmission, Parking Sensors",2152,4,No,4.4,Electric
+Vintage,Jaguar XK120,"All-Wheel Drive, Cruise Control, Sunroof, Parking Sensors, Lane Departure Warning",7105,4,Yes,4.4,Electric
+Luxury,Lexus LS,"Leather Seats, GPS Navigation, Hybrid Engine, Bluetooth, All-Wheel Drive",5614,5,Yes,5.0,Petrol
